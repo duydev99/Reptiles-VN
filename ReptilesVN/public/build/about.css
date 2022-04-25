@@ -1,0 +1,32 @@
+body {
+    background-color: #FAFFBB;
+}
+.bodyContent {
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 40px;
+    border: 1px solid black;
+}
+
+.content {
+    margin: 0 auto;
+    background: #003999;
+    padding: 20px;
+    background-color: white;
+    padding-bottom: 40px;
+}
+
+.title {
+    padding: 20px ;
+    background-color: #FFD8DA;
+    border-bottom: 1px solid black;
+}
+.paragraph {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -5px;
+    margin-bottom: -5px;
+    /* Khoang cach giua cac dong */
+    line-height: 2;
+    font-weight: bold;
+}

@@ -1,0 +1,16 @@
+.titleChiTiet {
+    color: #387C03;
+    text-shadow: 2px 2px;
+    font-family: 'Lacquer';
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-size: 24px;
+}
+.rightPage {
+    background-color: #F4EEF6;
+
+}
+.rightBody {
+    background-color: white;
+    
+}
